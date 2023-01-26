@@ -5,7 +5,7 @@ const char* password = "were is bob?";
 
 String json_array;
 int pins[8] = {2, 4, 5, 18, 19, 21, 22, 23};
-
+// im a AH medewerker! 
 //gerick is een paardenlul
 //std::map<uint8_t, uint8_t> bynery{{1, 2}, {2,4}, {3, 5}, {4, 18}, {5,19}, {6,21}, {7,22}, {8,23}};
 void setClock() {
